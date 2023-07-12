@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\bin\Debug\net6.0\C-Sharp-ListTask.exe
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\bin\Debug\net6.0\C-Sharp-ListTask.deps.json
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\bin\Debug\net6.0\C-Sharp-ListTask.runtimeconfig.json
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\bin\Debug\net6.0\C-Sharp-ListTask.dll
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\bin\Debug\net6.0\C-Sharp-ListTask.pdb
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\obj\Debug\net6.0\C-Sharp-ListTask.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\obj\Debug\net6.0\C-Sharp-ListTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\obj\Debug\net6.0\C-Sharp-ListTask.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\obj\Debug\net6.0\C-Sharp-ListTask.AssemblyInfo.cs
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\obj\Debug\net6.0\C-Sharp-ListTask.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\obj\Debug\net6.0\C-Sharp-ListTask.dll
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\obj\Debug\net6.0\refint\C-Sharp-ListTask.dll
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\obj\Debug\net6.0\C-Sharp-ListTask.pdb
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\obj\Debug\net6.0\C-Sharp-ListTask.genruntimeconfig.cache
+C:\Users\TRA\source\repos\C-Sharp-ListTask\C-Sharp-ListTask\obj\Debug\net6.0\ref\C-Sharp-ListTask.dll
